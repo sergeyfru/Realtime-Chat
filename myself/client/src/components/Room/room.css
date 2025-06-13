@@ -1,0 +1,16 @@
+.room{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.usercard{
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+    margin: 15px;
+    border-radius: 8px;
+}
